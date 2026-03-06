@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tim
 
-I'm 11 years old and really into low level programming.  
+I'm 11 years old, from germany and really into low level programming.  
 OSDev is my favorite thing to work on because I enjoy figuring out how computers actually work underneath everything.
 
 ### 🔧 What I like working on
